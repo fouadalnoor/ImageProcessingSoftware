@@ -1,0 +1,10 @@
+C:\Users\Fouad\Documents\Visual Studio 2010\Projects\ImageAnalysis\ImageAnalysis\bin\Release\ImageAnalysis.exe
+C:\Users\Fouad\Documents\Visual Studio 2010\Projects\ImageAnalysis\ImageAnalysis\bin\Release\ImageAnalysis.pdb
+C:\Users\Fouad\Documents\Visual Studio 2010\Projects\ImageAnalysis\ImageAnalysis\bin\Release\OpenPop.dll
+C:\Users\Fouad\Documents\Visual Studio 2010\Projects\ImageAnalysis\ImageAnalysis\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Fouad\Documents\Visual Studio 2010\Projects\ImageAnalysis\ImageAnalysis\obj\x86\Release\ImageAnalysis.Form1.resources
+C:\Users\Fouad\Documents\Visual Studio 2010\Projects\ImageAnalysis\ImageAnalysis\obj\x86\Release\ImageAnalysis.Properties.Resources.resources
+C:\Users\Fouad\Documents\Visual Studio 2010\Projects\ImageAnalysis\ImageAnalysis\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Fouad\Documents\Visual Studio 2010\Projects\ImageAnalysis\ImageAnalysis\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Fouad\Documents\Visual Studio 2010\Projects\ImageAnalysis\ImageAnalysis\obj\x86\Release\ImageAnalysis.exe
+C:\Users\Fouad\Documents\Visual Studio 2010\Projects\ImageAnalysis\ImageAnalysis\obj\x86\Release\ImageAnalysis.pdb

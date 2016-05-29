@@ -1,0 +1,35 @@
+c:\users\fouad\documents\visual studio 2010\Projects\ImageAnalysis\ImageAnalysis\bin\Debug\ImageAnalysis.exe
+c:\users\fouad\documents\visual studio 2010\Projects\ImageAnalysis\ImageAnalysis\bin\Debug\ImageAnalysis.pdb
+c:\users\fouad\documents\visual studio 2010\Projects\ImageAnalysis\ImageAnalysis\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\fouad\documents\visual studio 2010\Projects\ImageAnalysis\ImageAnalysis\obj\x86\Debug\ImageAnalysis.Form1.resources
+c:\users\fouad\documents\visual studio 2010\Projects\ImageAnalysis\ImageAnalysis\obj\x86\Debug\ImageAnalysis.Properties.Resources.resources
+c:\users\fouad\documents\visual studio 2010\Projects\ImageAnalysis\ImageAnalysis\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\fouad\documents\visual studio 2010\Projects\ImageAnalysis\ImageAnalysis\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\fouad\documents\visual studio 2010\Projects\ImageAnalysis\ImageAnalysis\obj\x86\Debug\ImageAnalysis.exe
+c:\users\fouad\documents\visual studio 2010\Projects\ImageAnalysis\ImageAnalysis\obj\x86\Debug\ImageAnalysis.pdb
+c:\users\fouad\documents\visual studio 2010\Projects\ImageAnalysis\ImageAnalysis\bin\Debug\OpenPop.dll
+C:\Users\Fouad\Desktop\ImageAnalysis\ImageAnalysis\obj\x86\Debug\ImageAnalysis.exe
+C:\Users\Fouad\Desktop\ImageAnalysis\ImageAnalysis\obj\x86\Debug\ImageAnalysis.pdb
+C:\Users\Fouad\Desktop\ImageAnalysis\ImageAnalysis\bin\Debug\ImageAnalysis.exe
+C:\Users\Fouad\Desktop\ImageAnalysis\ImageAnalysis\bin\Debug\ImageAnalysis.pdb
+C:\Users\Fouad\Desktop\ImageAnalysis\ImageAnalysis\bin\Debug\OpenPop.dll
+C:\Users\Fouad\Desktop\ImageAnalysis\ImageAnalysis\obj\x86\Debug\ImageAnalysis.Properties.Resources.resources
+C:\Users\Fouad\Desktop\ImageAnalysis\ImageAnalysis\obj\x86\Debug\ImageAnalysis.ImageAnalysisForm.resources
+C:\Users\Fouad\Desktop\ImageAnalysis\ImageAnalysis\bin\Debug\MessagingToolkit.Barcode.dll
+C:\Users\Fouad\Desktop\ImageAnalysis\ImageAnalysis\obj\x86\Debug\ImageAnalysis.csprojResolveAssemblyReference.cache
+C:\Users\Fouad\Desktop\ImageAnalysis\ImageAnalysis\obj\x86\Debug\ImageAnalysis.csproj.GenerateResource.Cache
+C:\Users\Fouad\Desktop\ImageAnalysis\ImageAnalysis\bin\Debug\JWT.dll
+C:\Users\Fouad\Desktop\ImageAnalysis\ImageAnalysis\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Fouad\Desktop\ImageAnalysis\ImageAnalysis\bin\Debug\RestSharp.dll
+C:\Users\Fouad\Desktop\ImageAnalysis\ImageAnalysis\bin\Debug\Twilio.Api.dll
+C:\Users\Fouad\Desktop\ImageAnalysis\ImageAnalysis\bin\Debug\Twilio.Auth.dll
+C:\Users\Fouad\Desktop\ImageAnalysis\ImageAnalysis\bin\Debug\Twilio.Lookups.dll
+C:\Users\Fouad\Desktop\ImageAnalysis\ImageAnalysis\bin\Debug\Twilio.Monitor.dll
+C:\Users\Fouad\Desktop\ImageAnalysis\ImageAnalysis\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Fouad\Desktop\ImageAnalysis\ImageAnalysis\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Fouad\Desktop\ImageAnalysis\ImageAnalysis\bin\Debug\RestSharp.xml
+C:\Users\Fouad\Desktop\ImageAnalysis\ImageAnalysis\bin\Debug\Twilio.Api.pdb
+C:\Users\Fouad\Desktop\ImageAnalysis\ImageAnalysis\bin\Debug\Twilio.Api.xml
+C:\Users\Fouad\Desktop\ImageAnalysis\ImageAnalysis\bin\Debug\Twilio.Auth.pdb
+C:\Users\Fouad\Desktop\ImageAnalysis\ImageAnalysis\bin\Debug\Twilio.Lookups.pdb
+C:\Users\Fouad\Desktop\ImageAnalysis\ImageAnalysis\bin\Debug\Twilio.Monitor.pdb

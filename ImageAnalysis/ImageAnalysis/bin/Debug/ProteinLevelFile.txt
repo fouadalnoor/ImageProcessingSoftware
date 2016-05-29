@@ -1,0 +1,7 @@
+DeviceImage0=Neg or Trace  Hue:56
+DeviceImage1=0.3  Hue: 83
+DeviceImage0=Neg or Trace  Hue:56
+DeviceImage1=0.3  Hue: 83
+DeviceImage5=Neg or Trace  Hue:68
+DeviceImage5=Neg or Trace  Hue:68
+DeviceImage4=0.3  Hue: 75

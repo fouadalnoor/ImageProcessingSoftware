@@ -1,0 +1,35 @@
+Delivered-To: fouadalnoor1@gmail.com
+Received: by 10.58.69.42 with SMTP id b10csp93252veu;
+        Mon, 11 Mar 2013 13:18:36 -0700 (PDT)
+X-Received: by 10.204.185.199 with SMTP id cp7mr5316338bkb.20.1363033115565;
+        Mon, 11 Mar 2013 13:18:35 -0700 (PDT)
+Return-Path: <postmaster@mmsreply.t-mobile.co.uk>
+Received: from replymta.mmsreply.t-mobile.de (replymta.mmsreply.t-mobile.de. [193.254.161.100])
+        by mx.google.com with ESMTP id fv8si6037070bkc.5.2013.03.11.13.18.35;
+        Mon, 11 Mar 2013 13:18:35 -0700 (PDT)
+Received-SPF: neutral (google.com: 193.254.161.100 is neither permitted nor denied by best guess record for domain of postmaster@mmsreply.t-mobile.co.uk) client-ip=193.254.161.100;
+Authentication-Results: mx.google.com;
+       spf=neutral (google.com: 193.254.161.100 is neither permitted nor denied by best guess record for domain of postmaster@mmsreply.t-mobile.co.uk) smtp.mail=postmaster@mmsreply.t-mobile.co.uk
+Received: from outmta.t-mobile.de (emr-server-vip [172.28.13.25])
+	by replymta.mmsreply.t-mobile.de (Postfix) with ESMTP id ECAE611744D5
+	for <fouadalnoor1@gmail.com>; Mon, 11 Mar 2013 21:18:34 +0100 (CET)
+Received: from [10.101.82.17] (localhost.localdomain [127.0.0.1])
+	by outmta.t-mobile.de (Postfix) with ESMTP id DA7D118CC767
+	for <fouadalnoor1@gmail.com>; Mon, 11 Mar 2013 21:18:34 +0100 (CET)
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: base64
+Subject: E-mail to MMS error
+To: fouadalnoor1@gmail.com
+From: postmaster@mmsreply.t-mobile.co.uk
+Message-Id: <20130311201834.DA7D118CC767@outmta.t-mobile.de>
+Date: Mon, 11 Mar 2013 21:18:34 +0100 (CET)
+
+RFNOIGNvZGUgMDAwNgoKRS1NYWlsIHRvOiAiMDc5NDc5OTg4NjdAbW1zcmVwbHkudC1tb2JpbGUu
+Y28udWsiIDx4Q1F+VVFHclFmd2s0dzd4OE1VQ3V3NFJmMkVpcl9kZ1djYlZjekxOQG1tc3JlcGx5
+LnQtbW9iaWxlLmNvLnVrPgoKWW91ciBlbWFpbCBjb3VsZCBub3QgYmUgZGVsaXZlcmVkIGFzIGEg
+cmVzcG9uc2UgaGFzIGFscmVhZHkgYmVlbiBzZW50CnRvIHRoaXMgUGljdHVyZSBNZXNzYWdlLiBZ
+b3UgY2FuIG9ubHkgcmVwbHkgdG8gZWFjaCBwaWN0dXJlIG1lc3NhZ2UKb25jZS4gIE9ubHkgdXNl
+IHRoZSBmb2xsb3dpbmcgZm9ybWF0cyB0byBlbnN1cmUgdGhhdCB0aGUgZnVsbCBtZXNzYWdlCmlz
+IHNlbnQuCgpQaWN0dXJlczogSlBFRy4gU291bmQ6IFdBVi4gVGhlIHRvdGFsIG1lc3NhZ2Ugc2l6
+ZSBzaG91bGQgbm90IGV4Y2VlZAozMDAga0J5dGU=
